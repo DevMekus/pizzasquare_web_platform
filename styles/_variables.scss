@@ -1,0 +1,15 @@
+// Pull in and re-export brand variables
+@forward '../node_modules/@pizzasquare/brand/brand';
+
+// App-specific additions
+$sidebar-width: 240px;
+
+// App-specific additions
+$sidebar-width: 240px;
+
+// This app's unique additions
+$sidebar-width: 240px;
+$admin-accent: #2ec4b6;
+
+// You can even override brand vars here if needed
+$color-primary: #cc2936; // slightly different red for admin

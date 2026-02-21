@@ -1,0 +1,15 @@
+// Now just use your app variables — brand vars are included via @forward
+@use './variables' as *;
+@use './mixins';
+
+@use './components/navbar';
+@use './components/hero-sections';
+@use './components/footers';
+@use './components/stats';
+@use './components/promotions';
+@use './components/products';
+
+body {
+  font-family: $font-body;
+  background: $color-background;
+}
