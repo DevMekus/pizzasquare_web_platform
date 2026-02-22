@@ -11,7 +11,7 @@ const LandingHero = () => {
                         <span className="highlight">PERFECTLY</span><br/>
                         SQUARED
                     </h1>
-                        <p>Experience pizza like never before. Every slice is a perfect square of deliciousness, crafted with premium ingredients and delivered hot to your door.</p>
+                        <p>Crafted with premium ingredients and delivered hot to your door.</p>
                     <div className="hero-actions">
                         <button className="btn-primary">Browse Menu</button>
                         <button className="btn-secondary">Track Order</button>

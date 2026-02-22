@@ -8,6 +8,11 @@
 @use './components/stats';
 @use './components/promotions';
 @use './components/products';
+@use './components/address';
+@use './components/menu-controls';
+@use './components/cart';
+
+@use './pages/menu';
 
 body {
   font-family: $font-body;

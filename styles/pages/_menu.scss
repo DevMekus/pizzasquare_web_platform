@@ -1,0 +1,29 @@
+#landing-menu{
+    .container {
+        max-width: var(--app-container-width);
+        margin: 100px auto;
+        padding: 2rem;
+    }
+
+    .menu-header {
+        text-align: center;
+        padding: 3rem 0;
+        background: linear-gradient(135deg, var(--primary-400) 0%, var(--primary-500) 100%);
+        margin-bottom: 3rem;
+        border-radius: 20px;
+    }
+
+    .menu-header h1 {    
+        font-size: 4rem;
+        color: var(--dark);
+        margin-bottom: 1rem;
+        font-weight: 500;
+    }
+
+    .menu-header p {
+        font-size: 1.2rem;
+        color: var(--neutral-200);
+    }
+
+    
+}
